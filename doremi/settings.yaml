@@ -1,0 +1,10 @@
+DEBUG: True
+CACHE_TYPE: "simple"
+SQLALCHEMY_TRACK_MODIFICATIONS: True
+
+REDIS_HOST: "10.3.2.51"
+REDIS_PORT: 32788
+REDIS_DB_INDEX: 1
+  
+SECRET_KEY: VXy2nnUkuBZJOQysIqzN6QsU4XCmeQqE
+SQLALCHEMY_DATABASE_URI: "mysql+mysqlconnector://root:xiaoyezi.xyz@10.3.2.51/ams_local?charset=utf8mb4"
